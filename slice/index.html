@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Struct</title>
 </head>
 <body>
-{{$name:= .}}
-<h1>Hello Mr. {{$name}}</h1>
+<ul>
+    {{range .}}
+    <li>{{ .}}</li>
+    {{end}}
+</ul>
 </body>
 </html>
