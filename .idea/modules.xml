@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Go-Web-Dev.iml" filepath="$PROJECT_DIR$/.idea/Go-Web-Dev.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/Go-WebDev.iml" filepath="$PROJECT_DIR$/.idea/Go-WebDev.iml" />
+>>>>>>> fa0777f9024bbea624727e264b3798bf2ea61bc7
     </modules>
   </component>
 </project>
